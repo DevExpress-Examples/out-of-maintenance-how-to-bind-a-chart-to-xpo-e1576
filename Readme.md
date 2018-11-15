@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/BindChartToXPO/Form1.cs) (VB: [Form1.Designer.vb](./VB/BindChartToXPO/Form1.Designer.vb))
+* [Form1.Designer.cs](./CS/BindChartToXPO/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/BindChartToXPO/Form1.Designer.vb))
+<!-- default file list end -->
 # How to bind a chart to XPO
 
 
